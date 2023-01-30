@@ -1,0 +1,33 @@
+
+#three{
+    border: 2px solid black;
+    padding: 20px;
+}
+
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-family: cursive;
+  
+}
+
+#result{
+    /* background-color: coral; */
+    /* border: 2px dashed black; */
+    width: 400px;
+   
+     text-align: center;
+     
+}
+
+#two{
+    display: flex;
+    justify-content: center;
+  
+}
+.one{
+    font-size: 30px;
+   margin: 10px;
+
+}
